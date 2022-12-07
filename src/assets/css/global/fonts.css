@@ -3,7 +3,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: local(''), url(/assets/fonts/NNNouvelle/NNNouvelleGrotesk-Normal.woff2) format('woff2'),
+  src: local(''), url(/assets/fonts/NNNouvelle/NNNouvelleGrotesk-Normal.woff2) format('woff2');
 }
 
 @font-face {
@@ -11,7 +11,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src: local(''), url(/assets/fonts/NNNouvelle/NNNouvelleGrotesk-Bold.woff2) format('woff2'),
+  src: local(''), url(/assets/fonts/NNNouvelle/NNNouvelleGrotesk-Bold.woff2) format('woff2');
 }
 
 @font-face {
