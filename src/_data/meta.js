@@ -3,7 +3,7 @@ const package = require('../../package.json');
 module.exports = {
   pkv: package.version || 'v1',
   url: process.env.URL || 'http://localhost:8080',
-  siteName: 'Eleventy Excellent',
+  siteName: 'Sermon Exploder',
   siteDescription:
     'Eleventy starter based on the workflow suggested by buildexcellentwebsit.es.',
   siteType: 'Person', // schema
@@ -32,14 +32,14 @@ module.exports = {
   },
   address: {
     // edit all presets or leave empty. They are being used in the pages for privacy.md and imprint.md
-    firma: 'Organization name',
-    street: '123 Main St.',
-    city: 'Ciudad',
-    state: 'Estado',
-    zip: '12345',
-    mobileDisplay: '+34 1234567',
-    mobileCall: ' +341234567',
-    email: 'hola@yoursite.com',
+    firma: '',
+    street: '',
+    city: '',
+    state: '',
+    zip: '',
+    mobileDisplay: '',
+    mobileCall: '',
+    email: 'santiagowriter at gmail.com',
     cif: ''
   },
   menu: {
