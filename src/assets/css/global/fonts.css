@@ -1,4 +1,84 @@
 @font-face {
+  font-family: 'Dinamit';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src: local(''), url(/assets/fonts/Dinamit/Dinamit_Extralight.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Dinamit';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: local(''), url(/assets/fonts/Dinamit/Dinamit_Regular.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Dinamit';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: local(''), url(/assets/fonts/Dinamit/Dinamit_Bold.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Untitled';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src: local(''), url(/assets/fonts/Untitled/UntitledSansWeb-Light.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Untitled';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: local(''), url(/assets/fonts/Untitled/UntitledSansWeb-Regular.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Untitled';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: local(''), url(/assets/fonts/Untitled/UntitledSansWeb-RegularItalic.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Untitled';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: local(''), url(/assets/fonts/Untitled/UntitledSansWeb-Medium.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Untitled';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src: local(''), url(/assets/fonts/Untitled/UntitledSansWeb-MediumItalic.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Untitled';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: local(''), url(/assets/fonts/Untitled/UntitledSansWeb-Bold.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Untitled';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: local(''), url(/assets/fonts/Untitled/UntitledSansWeb-Black.woff) format('woff');
+}
+
+@font-face {
   font-family: 'NNNouvelle';
   font-style: normal;
   font-display: swap;
