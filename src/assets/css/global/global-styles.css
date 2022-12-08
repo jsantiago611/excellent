@@ -23,15 +23,15 @@ h3 {
 }
 
 h1 {
-  font-size: var(--size-step-6);
-}
-
-h2 {
   font-size: var(--size-step-5);
 }
 
-h3 {
+h2 {
   font-size: var(--size-step-4);
+}
+
+h3 {
+  font-size: var(--size-step-3);
 }
 
 /* Set line lengths */
