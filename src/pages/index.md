@@ -1,6 +1,6 @@
 ---
 permalink: /index.html
-title: ' Sermon Exploder'
+title: 'Sermon Exploder'
 description: 'Key principles using modern CSS, fluid type, fluid space, flexible layout and progressive enhancement will help you to build better front-ends that work for everyone.'
 layout: 'home'
 blog:
@@ -8,7 +8,7 @@ blog:
   intro: "I'm showing the last 4 blog posts, but there might be more!"
 ---
 
-## An Eleventy starter
+## Personal Knowledge Management for Christians
 
 This (opiniated) [Eleventy](https://www.11ty.dev/) starter is based on [Andy Bell's](https://twitter.com/piccalilli_) talk 'Be the browser’s mentor, not its micromanager' and it's companion website buildexcellentwebsit.es.
 
