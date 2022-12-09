@@ -19,6 +19,8 @@
 
 .card h3 a {
   text-decoration: none;
+  font-family: var(--font-base);
+  font-weight: 500;
 }
 
 .card time {
