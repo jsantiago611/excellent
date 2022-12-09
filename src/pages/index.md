@@ -1,14 +1,14 @@
 ---
 permalink: /index.html
-title: 'Sermon Exploder'
-description: 'Key principles using modern CSS, fluid type, fluid space, flexible layout and progressive enhancement will help you to build better front-ends that work for everyone.'
+title: '“The gospel says you are more sinful and flawed than you ever dared believe, but more accepted and loved than you ever dared hope.”'
+description: 'Key ideas from gospelinlife.com to help people understand the gospel.'
 layout: 'home'
 blog:
   title: 'Blog'
   intro: "I'm showing the last 4 blog posts, but there might be more!"
 ---
 
-## Personal Knowledge Management for Christians
+## What is Gospel Exploder?
 
 This (opiniated) [Eleventy](https://www.11ty.dev/) starter is based on [Andy Bell's](https://twitter.com/piccalilli_) talk 'Be the browser’s mentor, not its micromanager' and it's companion website buildexcellentwebsit.es.
 
