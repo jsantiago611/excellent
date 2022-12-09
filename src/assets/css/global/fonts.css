@@ -114,6 +114,7 @@
   font-family: 'TT-Ramillas';
   font-style: normal;
   font-display: swap;
+  font-weight: bold;
   src: local(''), url(/assets/fonts/Untitled/TT-Ramillas-ExtraLight.woff) format('woff');
 }
 
