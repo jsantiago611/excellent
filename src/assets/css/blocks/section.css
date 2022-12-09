@@ -16,4 +16,5 @@
 
 .section :is(h1, h2, h3, blockquote) {
   opacity: 95%;
+  max-width: 40ch;
 }
