@@ -79,6 +79,45 @@
 }
 
 @font-face {
+  font-family: 'Gt-America';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src: local(''), url(/assets/fonts/Untitled/GT-America-Standard-Light.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Gt-America';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src: local(''), url(/assets/fonts/Untitled/GT-America-Standard-Light-Italic.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Gt-America';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: local(''), url(/assets/fonts/Untitled/GT-America-Standard-Regular.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Gt-America';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: local(''), url(/assets/fonts/Untitled/GT-America-Standard-Medium.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'TT-Ramillas';
+  font-style: normal;
+  font-display: swap;
+  src: local(''), url(/assets/fonts/Untitled/TT-Ramillas-ExtraLight.woff) format('woff');
+}
+
+@font-face {
   font-family: 'NNNouvelle';
   font-style: normal;
   font-display: swap;
